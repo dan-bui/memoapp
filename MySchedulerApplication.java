@@ -1,4 +1,4 @@
-package com.example.username.colen;
+package com.example.username.memoapp;
 
 import android.app.Application;
 import android.content.Intent;
