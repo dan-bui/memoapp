@@ -1,4 +1,4 @@
-package com.example.username.メモ帳;
+package com.example.username.;
 
 import android.content.Intent;
 import android.os.Bundle;
