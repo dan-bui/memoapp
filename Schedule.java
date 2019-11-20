@@ -1,4 +1,4 @@
-package com.example.username.colen;
+package com.example.username.memoapp;
 
 import java.util.Date;
 
